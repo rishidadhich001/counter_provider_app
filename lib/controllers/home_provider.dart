@@ -7,5 +7,4 @@ class HomeProvider extends ChangeNotifier{
     counter++;
     notifyListeners();
   }
-
 }
